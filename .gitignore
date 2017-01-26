@@ -1,0 +1,7 @@
+.*
+nbproject
+_*
+*.class
+*.exe
+
+!/.gitignore
