@@ -20,7 +20,7 @@ Online materials for CS302 - Information System Design and Implementation
 # sound control libraries
 * [timbre.js](mohayonao.github.io/timbre.js)
 * [pizzicato](https://alemangui.github.io/pizzicato)
-* [HOWLER.Js](https://howlerjs.com]
+* [HOWLER.Js](https://howlerjs.com)
 * [SoundJS](https://github.com/CreateJS/SoundJS)
 * [MediaStreamRecorder](https://github.com/streamproc/MediaStreamRecorder)
 * [An example using jQuery](subinsb.com/html5-record-mic-voice)
