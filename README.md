@@ -30,3 +30,8 @@ Online materials for CS302 - Information System Design and Implementation
 
 # google map
 * [Google map introduction](www.w3schools.com/graphics/google_maps_intro.asp)
+
+# notification
+* [A stackoverflow post](http://stackoverflow.com/questions/33687298/how-to-send-push-notification-to-web-browser)
+* [Push API](https://www.w3.org/TR/push-api/)
+* [Web notifications](https://www.w3.org/TR/notifications/)
