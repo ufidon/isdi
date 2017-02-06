@@ -10,11 +10,11 @@ Online materials for CS302 - Information System Design and Implementation
 
 
 # camera control libraries
-[WebcamJS](https://pixlcore.com/read/WebcamJS)
-[webcamjs](https://github.com/jhuckaby/webcamjs)
-[expertcamjs](https://github.com/andrastoth/expertcamjs)
-[tracking.js](https://trackingjs.com)
-[popcornjs](http://popcornjs.org)
+* [WebcamJS](https://pixlcore.com/read/WebcamJS)
+* [webcamjs](https://github.com/jhuckaby/webcamjs)
+* [expertcamjs](https://github.com/andrastoth/expertcamjs)
+* [tracking.js](https://trackingjs.com)
+* [popcornjs](http://popcornjs.org)
 
 
 # sound control libraries
@@ -29,7 +29,7 @@ Online materials for CS302 - Information System Design and Implementation
 * [A list from javascripting](https://javascripting.com/audio)
 
 # google map
-* [Google map introduction](https://www.w3schools.com/graphics/google_maps_intro.asp)
+* [Google map introduction](http://www.w3schools.com/graphics/google_maps_intro.asp)
 
 # notification
 * [A stackoverflow post](https://stackoverflow.com/questions/33687298/how-to-send-push-notification-to-web-browser)
