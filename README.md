@@ -54,3 +54,11 @@ Online materials for CS302 - Information System Design and Implementation
 * [What are Long-Polling, Websockets, Server-Sent Events SSE and Comet?](http://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)
 * [What is HTTP Long Polling?](https://www.pubnub.com/blog/2014-12-01-http-long-polling/)
 * [Simple Long Polling Example with JavaScript and jQuery](https://techoctave.com/c7/posts/60-simple-long-polling-example-with-javascript-and-jquery)
+
+## PHP session management
+* [PHP sessions from Tutorial Point](https://www.tutorialspoint.com/php/php_sessions.htm)
+* [Session Handling in PHP from GodeforGeek](https://codeforgeek.com/2014/08/session-handling-php/)
+* [Session Management Using PHP from OpenSource](http://opensourceforu.com/2008/12/session-management-using-php-part-1-cookie-based-sessions/)
+* [Session Management Basics from PHP Document](http://php.net/manual/en/features.session.security.management.php)
+* [PHP Session Extensions](http://php.net/manual/en/refs.basic.session.php)
+* [Manage Users Using Sessions and MySQL](https://www.sitepoint.com/users-php-sessions-mysql/)
